@@ -24,7 +24,7 @@
 <br>
 <p align="center">
     <samp>
-        <image align="center" src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=81A2BD&center=false&width=410&height=45&lines=i+like+to+code+and+play+games.">
+        <image align="center" src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=81A2BD&center=false&width=410&height=45&lines=Hi!+I'm+software+developer+i+like+to+code+and+play+games.">
       <br>
       <b>
         ~ Aditya Jaiswal ~
